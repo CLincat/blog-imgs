@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="807" height="341" viewBox="0 0 807 341">
+  <title>cache-busting-2</title>
+  <g>
+    <text transform="translate(69.5 150.76)" font-size="24" font-family="Courier, Courier">GET /search/node?<tspan x="244.84" y="0" fill="#f63">keys=snuff</tspan><tspan x="388.86" y="0" xml:space="preserve"> HTTP/1.1</tspan><tspan x="518.48" y="0" letter-spacing="-0.6em">​</tspan><tspan x="0" y="38.8">Host: </tspan><tspan x="86.41" y="38.8" fill="#159c80">example.com</tspan><tspan x="244.84" y="38.8" fill="#159c80" letter-spacing="-0.6em">​</tspan><tspan x="0" y="77.6">X-Original-URL: </tspan><tspan x="230.44" y="77.6" fill="#159c80">/search/node</tspan><tspan x="403.27" y="77.6" fill="#60bcd8">?keys=kittens</tspan><tspan x="590.5" y="77.6" fill="#60bcd8" letter-spacing="-0.6em">​</tspan></text>
+    <polygon points="459.67 82.69 423.34 117.71 417.32 111.46 411.87 130.42 431.01 125.67 425 119.42 461.32 84.4 459.67 82.69" fill="#ff774a" />
+    <polygon points="643.54 279.68 623.73 247.37 631.13 242.83 613.78 233.42 614.31 253.15 621.7 248.61 641.52 280.92 643.54 279.68" fill="#72c4dc" />
+    <polygon points="246.61 305.6 327.32 247.56 332.39 254.6 340.5 236.62 320.87 238.58 325.93 245.63 245.22 303.67 246.61 305.6" fill="#2fa78e" />
+    <rect x="516.04" y="280.3" width="235.93" height="40" fill="#d0f1f7" stroke="#60bcd8" stroke-miterlimit="10" />
+    <rect x="35.14" y="282.51" width="210.77" height="40" fill="#bfe2d9" stroke="#159c80" stroke-miterlimit="10" />
+    <rect x="16.41" y="21.13" width="265.59" height="40" fill="#ebf0f2" stroke="#4c5054" stroke-miterlimit="10" />
+    <rect x="411.22" y="44.02" width="237.94" height="40" fill="#fcebe8" stroke="#f63" stroke-miterlimit="10" />
+    <text transform="translate(526.54 307.53)" font-size="23" fill="#0071bc" font-family="Verdana, Verdana">Unused and <tspan x="144.83" y="0" letter-spacing="-0.01em">k</tspan><tspan x="158.21" y="0">e</tspan><tspan x="171.92" y="0" letter-spacing="-0.01em">y</tspan><tspan x="185.32" y="0">ed</tspan></text>
+    <text transform="translate(49.6 310.74)" font-size="23" fill="#159c80" font-family="Verdana, Verdana">Used and <tspan x="115.72" y="0" letter-spacing="-0.01em">k</tspan><tspan x="129.1" y="0">e</tspan><tspan x="142.81" y="0" letter-spacing="-0.01em">y</tspan><tspan x="156.21" y="0">ed</tspan><tspan x="184.25" y="0" letter-spacing="-0.35em">​</tspan></text>
+    <text transform="translate(28 48.1)" font-size="23" fill="#4c5054" font-family="Verdana, Verdana">Unused and un<tspan x="173.94" y="0" letter-spacing="-0.01em">k</tspan><tspan x="187.32" y="0">e</tspan><tspan x="201.02" y="0" letter-spacing="-0.01em">y</tspan><tspan x="214.43" y="0">ed</tspan></text>
+    <text transform="translate(424.67 72)" font-size="23" fill="#f63" font-family="Verdana, Verdana">Used and un<tspan x="144.83" y="0" letter-spacing="-0.01em">k</tspan><tspan x="158.21" y="0">e</tspan><tspan x="171.92" y="0" letter-spacing="-0.01em">y</tspan><tspan x="185.32" y="0">ed</tspan></text>
+    <polygon points="181.98 62.14 214.58 116.16 207.15 120.64 224.43 130.17 224.04 110.44 216.62 114.93 184.02 60.91 181.98 62.14" fill="#606467" />
+  </g>
+</svg>
